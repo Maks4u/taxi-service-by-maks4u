@@ -14,7 +14,7 @@ A simple web-application that supports authentication, registration and other CR
 - display list of all drivers;
 - display list of all cars by current driver;
 - add driver to car.
-## :note: Project structure (3-layer architecture):
+## :bookmark_tabs: Project structure (3-layer architecture):
 - DAO - Data access layer
 - Service - Application logic layer
 - Controllers - Presentation layer
@@ -30,7 +30,7 @@ A simple web-application that supports authentication, registration and other CR
 - JSTL
 - HTML/CSS
 - Checkstyle plugin
-## :foot: Steps to run the program on your computer:
+## :athletic_shoe: Steps to run the program on your computer:
 - Clone the repo [from here](https://github.com/Maks4u/taxi-service-by-maks4u.git);
 - Install MySQL;
 - Configure Apache Tomcat version (**IMPORTANT**): 9.0.5;
