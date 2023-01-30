@@ -14,7 +14,7 @@ A simple web-application that supports authentication, registration and other CR
 - display list of all drivers;
 - display list of all cars by current driver;
 - add driver to car.
-## :list: Project structure (3-layer architecture):
+## :note: Project structure (3-layer architecture):
 - DAO - Data access layer
 - Service - Application logic layer
 - Controllers - Presentation layer
